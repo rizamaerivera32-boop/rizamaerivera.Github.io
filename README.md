@@ -216,7 +216,7 @@
 <section id="contact">
     <h2>Contact</h2>
     <div class="glass">
-        <p>Email: yourname@email.com</p>
+        <p>Email: rizamaerivera32@gmail.com</p>
         <p>GitHub | LinkedIn | Twitter</p>
     </div>
 </section>
